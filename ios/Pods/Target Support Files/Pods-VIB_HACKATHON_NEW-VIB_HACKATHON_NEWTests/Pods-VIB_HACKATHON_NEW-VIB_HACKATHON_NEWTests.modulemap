@@ -1,0 +1,6 @@
+module Pods_VIB_HACKATHON_NEW_VIB_HACKATHON_NEWTests {
+  umbrella header "Pods-VIB_HACKATHON_NEW-VIB_HACKATHON_NEWTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
